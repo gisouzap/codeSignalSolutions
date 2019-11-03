@@ -1,4 +1,4 @@
-<p align="center"><img src="https://coderbytestaticimages.s3.amazonaws.com/orgs-comparison/CS_logo_blue.png" width="30%" height="30%"/><br/>
+<p align="center"><a href="https://app.codesignal.com/profile/gisellesouz"><img src="https://coderbytestaticimages.s3.amazonaws.com/orgs-comparison/CS_logo_blue.png" width="30%" height="30%"/></a><br/>
 <p align="right">My solutions.</p>
 
   <hr></hr>
